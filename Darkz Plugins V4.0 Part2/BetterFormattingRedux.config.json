@@ -1,0 +1,74 @@
+{
+    "currentVersionInfo": {
+        "version": "2.3.10",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "toolbar": {
+            "bold": true,
+            "italic": true,
+            "underline": true,
+            "strikethrough": true,
+            "spoiler": true,
+            "code": true,
+            "codeblock": true,
+            "superscript": true,
+            "smallcaps": true,
+            "fullwidth": true,
+            "upsidedown": true,
+            "varied": true,
+            "leet": false,
+            "thicc": false
+        },
+        "formats": {
+            "superscript": true,
+            "smallcaps": true,
+            "fullwidth": true,
+            "upsidedown": true,
+            "varied": true,
+            "leet": true,
+            "thicc": true
+        },
+        "wrappers": {
+            "superscript": "^^",
+            "smallcaps": "%%",
+            "fullwidth": "##",
+            "upsidedown": "&&",
+            "varied": "==",
+            "leet": "++",
+            "thicc": "$$"
+        },
+        "formatting": {
+            "fullWidthMap": true,
+            "reorderUpsidedown": true,
+            "fullwidth": true
+        },
+        "plugin": {
+            "hoverOpen": false,
+            "chainFormats": false,
+            "closeOnSend": true
+        },
+        "style": {
+            "icons": true,
+            "rightSide": true,
+            "toolbarOpacity": 1,
+            "fontSize": 49.54751422969606
+        }
+    },
+    "buttonOrder": [
+        "bold",
+        "italic",
+        "underline",
+        "strikethrough",
+        "spoiler",
+        "code",
+        "codeblock",
+        "superscript",
+        "smallcaps",
+        "upsidedown",
+        "fullwidth",
+        "varied",
+        "leet",
+        "thicc"
+    ]
+}

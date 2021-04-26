@@ -1,0 +1,47 @@
+{
+	"amounts": {
+		"hoverDelay": 0
+	},
+	"engines": {
+		"_all": true,
+		"Baidu": true,
+		"Bing": true,
+		"Google": true,
+		"ImgOps": true,
+		"IQDB": true,
+		"Reddit": true,
+		"SauceNAO": true,
+		"Sogou": true,
+		"TinEye": true,
+		"WhatAnime": true,
+		"Yandex": true
+	},
+	"inputs": {
+		"downloadLocation": ""
+	},
+	"ownLocations": {
+		"Downloads": {
+			"enabled": true,
+			"location": "C:\\Users\\kimka\\Downloads"
+		}
+	},
+	"settings": {
+		"resizeImage": true,
+		"addDetails": true,
+		"showAsHeader": true,
+		"showOnHover": true,
+		"enableGallery": true,
+		"enableZoom": true,
+		"pixelZoom": false,
+		"enableCopyImg": true,
+		"enableSaveImg": true,
+		"addUserAvatarEntry": true,
+		"addGroupIconEntry": true,
+		"addGuildIconEntry": true,
+		"addEmojiEntry": true
+	},
+	"zoomSettings": {
+		"zoomlevel": 9.8,
+		"lensesize": 2020
+	}
+}

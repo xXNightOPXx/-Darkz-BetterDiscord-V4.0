@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"addUserID": true,
+		"disableForBots": true,
+		"includeColorless": true,
+		"showInChat": true,
+		"showInMemberList": true,
+		"showOwnerRole": true,
+		"useBlackFont": true,
+		"useOtherStyle": true
+	}
+}

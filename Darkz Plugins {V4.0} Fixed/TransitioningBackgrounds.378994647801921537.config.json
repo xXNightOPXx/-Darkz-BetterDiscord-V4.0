@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "general": {
+            "imageLife": 3.2311827956989254,
+            "imageSizeMode": "cover",
+            "forceTransparency": true,
+            "backgroundBrightness": 1
+        },
+        "imageSource": {
+            "source": 1,
+            "folder": "C:\\Users\\kimka\\OneDrive\\Desktop\\logo"
+        },
+        "transition": {
+            "method": 1,
+            "time": 15.258064516129037,
+            "sort": 1
+        }
+    }
+}
